@@ -1,0 +1,21 @@
+uniquifier{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+  }
+
+
+body{
+    background-color: navajowhite;
+}
+
+h1{
+    font-family: "Quicksand";
+    text-decoration: underline white;
+    text-align: center;
+}
+.introduction{
+    font-style: italic;
+    text-align: center;
+}
