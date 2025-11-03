@@ -9,13 +9,13 @@ https://cb-mario.github.io/Exercise_Unit5_website/
 - CSSfor styling
 
 # Project Structure
--index.hmtl
--style.css
--images
+- index.hmtl
+- style.css
+- images
 
 #  How to run?
--Online: With the link of GitHub Pages.
--Local:   
+- Online: With the link of GitHub Pages.
+- Local:   
 git clone https://github.com/cb-mario/Exercise_Unit5_website.git
 cd Exercise_Unit5_website
 open index.html
